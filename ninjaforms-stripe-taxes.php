@@ -14,3 +14,8 @@
  */
 
 // Your code starts here.
+
+add_filter('ninja_forms_stripe_checkout_session_create_params', function ($params) {
+	$params['automatic_tax'] = ['enabled' => true];
+	return $params;
+});

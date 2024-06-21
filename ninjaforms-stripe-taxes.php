@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:     Ninja Forms - Stripe Taxes
- * Plugin URI:      https://adamwills.dev
+ * Plugin URI:      https://github.com/AdamWills/ninja-forms-stripe-taxes
  * Description:     Adds support for taxes in Ninja Forms Stripe add-on.
  * Author:          Adam Wills
  * Author URI:      https://adamwills.dev
